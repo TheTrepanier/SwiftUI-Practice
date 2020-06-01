@@ -17,7 +17,7 @@ struct LandmarkList: View {
 // You can create a list that displays the elements of collection by passing your collection of data and a closure that provides a view for each element in the collection. The list transforms each element in the collection into a child view by using the supplied closure.
         NavigationView {
             List(landmarkData) { landmark in
-                NavigationLink(destination: LandmarkDetail()){
+                NavigationLink(destination: LandmarkDetail(landmark: landmark)){
                     LandmarkRow(landmark: landmark)
                 }
             }.navigationBarTitle(Text("Landmarks"))
