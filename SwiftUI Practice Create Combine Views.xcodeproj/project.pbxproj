@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		63FC62712484AD4300102AEE /* SwiftUI Practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Practice.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		63FC62712484AD4300102AEE /* SwiftUI Practice Create Combine Views - Create Combine Views.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Practice Create Combine Views - Create Combine Views.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63FC62742484AD4300102AEE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63FC62762484AD4300102AEE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		63FC62782484AD4300102AEE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		63FC62722484AD4300102AEE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				63FC62712484AD4300102AEE /* SwiftUI Practice.app */,
+				63FC62712484AD4300102AEE /* SwiftUI Practice Create Combine Views - Create Combine Views.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,9 +84,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		63FC62702484AD4300102AEE /* SwiftUI Practice */ = {
+		63FC62702484AD4300102AEE /* SwiftUI Practice Create Combine Views */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 63FC62852484AD4400102AEE /* Build configuration list for PBXNativeTarget "SwiftUI Practice" */;
+			buildConfigurationList = 63FC62852484AD4400102AEE /* Build configuration list for PBXNativeTarget "SwiftUI Practice Create Combine Views" */;
 			buildPhases = (
 				63FC626D2484AD4300102AEE /* Sources */,
 				63FC626E2484AD4300102AEE /* Frameworks */,
@@ -96,9 +96,9 @@
 			);
 			dependencies = (
 			);
-			name = "SwiftUI Practice";
+			name = "SwiftUI Practice Create Combine Views";
 			productName = "SwiftUI Practice";
-			productReference = 63FC62712484AD4300102AEE /* SwiftUI Practice.app */;
+			productReference = 63FC62712484AD4300102AEE /* SwiftUI Practice Create Combine Views - Create Combine Views.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -116,7 +116,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 63FC626C2484AD4300102AEE /* Build configuration list for PBXProject "SwiftUI Practice" */;
+			buildConfigurationList = 63FC626C2484AD4300102AEE /* Build configuration list for PBXProject "SwiftUI Practice Create Combine Views" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -129,7 +129,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				63FC62702484AD4300102AEE /* SwiftUI Practice */,
+				63FC62702484AD4300102AEE /* SwiftUI Practice Create Combine Views */,
 			);
 		};
 /* End PBXProject section */
@@ -302,7 +302,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.thetrepanier.SwiftUI-Practice";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "SwiftUI Practice Create Combine Views - Create Combine Views";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -322,7 +322,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.thetrepanier.SwiftUI-Practice";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "SwiftUI Practice Create Combine Views - Create Combine Views";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -331,7 +331,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		63FC626C2484AD4300102AEE /* Build configuration list for PBXProject "SwiftUI Practice" */ = {
+		63FC626C2484AD4300102AEE /* Build configuration list for PBXProject "SwiftUI Practice Create Combine Views" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				63FC62832484AD4400102AEE /* Debug */,
@@ -340,7 +340,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		63FC62852484AD4400102AEE /* Build configuration list for PBXNativeTarget "SwiftUI Practice" */ = {
+		63FC62852484AD4400102AEE /* Build configuration list for PBXNativeTarget "SwiftUI Practice Create Combine Views" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				63FC62862484AD4400102AEE /* Debug */,
